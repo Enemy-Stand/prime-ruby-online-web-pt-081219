@@ -1,4 +1,4 @@
 def prime?(num)
   return false if num < 2
   
-  (2..n/2).none?
+  (2..n/2).none?{|i| i % n == 0
