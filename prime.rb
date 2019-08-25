@@ -1,2 +1,4 @@
 def prime?(num)
-  for d in 2..()
+  return false if num < 2
+  
+  
