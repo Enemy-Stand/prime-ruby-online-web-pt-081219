@@ -1,2 +1,2 @@
 def prime?(num)
-  for d in 
+  for d in 2..()
